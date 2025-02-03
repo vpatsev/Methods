@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\bin\Debug\net9.0\06.MathPower.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\bin\Debug\net9.0\06.MathPower.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\bin\Debug\net9.0\06.MathPower.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\bin\Debug\net9.0\06.MathPower.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\bin\Debug\net9.0\06.MathPower.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\06.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\06.MathPower.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\06.MathPower.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\06.MathPower.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\06.MathPower.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\06.MathPower.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\refint\06.MathPower.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\06.MathPower.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\06.MathPower.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\06.MathPower\obj\Debug\net9.0\ref\06.MathPower.dll

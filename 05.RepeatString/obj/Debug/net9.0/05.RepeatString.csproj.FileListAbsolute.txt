@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\bin\Debug\net9.0\05.RepeatString.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\refint\05.RepeatString.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\05.RepeatString\obj\Debug\net9.0\ref\05.RepeatString.dll
