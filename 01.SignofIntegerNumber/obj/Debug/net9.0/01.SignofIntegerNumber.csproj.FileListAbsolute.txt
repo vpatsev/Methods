@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\bin\Debug\net9.0\01.SignofIntegerNumber.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\bin\Debug\net9.0\01.SignofIntegerNumber.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\bin\Debug\net9.0\01.SignofIntegerNumber.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\bin\Debug\net9.0\01.SignofIntegerNumber.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\bin\Debug\net9.0\01.SignofIntegerNumber.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\01.SignofIntegerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\01.SignofIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\01.SignofIntegerNumber.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\01.SignofIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\01.SignofIntegerNumber.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\01.SignofIntegerNumber.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\refint\01.SignofIntegerNumber.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\01.SignofIntegerNumber.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\01.SignofIntegerNumber.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Methods\01.SignofIntegerNumber\obj\Debug\net9.0\ref\01.SignofIntegerNumber.dll
